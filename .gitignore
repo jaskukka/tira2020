@@ -1,0 +1,10 @@
+# Ignore class files
+*.class
+
+# Ignore useless files from things that are just useless
+MyGraph.java
+MyGraphTest.java
+oskarijuttuja.java
+StackTest.java
+komennot.txt
+
